@@ -70,10 +70,7 @@ form .row {
   gap: 60px;
 }
 .column-input.input-text {
-  width: 50%;
-}
-.column-input.select {
-  width: 30%;
+  width: 100%;
 }
 .column-input.select select {
   padding: 0 5px;
